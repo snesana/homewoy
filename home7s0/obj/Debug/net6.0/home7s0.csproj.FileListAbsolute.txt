@@ -1,0 +1,15 @@
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s0\bin\Debug\net6.0\home7s0.exe
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s0\bin\Debug\net6.0\home7s0.deps.json
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s0\bin\Debug\net6.0\home7s0.runtimeconfig.json
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s0\bin\Debug\net6.0\home7s0.dll
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s0\bin\Debug\net6.0\home7s0.pdb
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s0\obj\Debug\net6.0\home7s0.csproj.AssemblyReference.cache
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s0\obj\Debug\net6.0\home7s0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s0\obj\Debug\net6.0\home7s0.AssemblyInfoInputs.cache
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s0\obj\Debug\net6.0\home7s0.AssemblyInfo.cs
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s0\obj\Debug\net6.0\home7s0.csproj.CoreCompileInputs.cache
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s0\obj\Debug\net6.0\home7s0.dll
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s0\obj\Debug\net6.0\refint\home7s0.dll
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s0\obj\Debug\net6.0\home7s0.pdb
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s0\obj\Debug\net6.0\home7s0.genruntimeconfig.cache
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s0\obj\Debug\net6.0\ref\home7s0.dll

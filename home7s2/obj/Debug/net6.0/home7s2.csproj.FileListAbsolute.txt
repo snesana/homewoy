@@ -1,0 +1,15 @@
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s2\bin\Debug\net6.0\home7s2.exe
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s2\bin\Debug\net6.0\home7s2.deps.json
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s2\bin\Debug\net6.0\home7s2.runtimeconfig.json
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s2\bin\Debug\net6.0\home7s2.dll
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s2\bin\Debug\net6.0\home7s2.pdb
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s2\obj\Debug\net6.0\home7s2.csproj.AssemblyReference.cache
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s2\obj\Debug\net6.0\home7s2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s2\obj\Debug\net6.0\home7s2.AssemblyInfoInputs.cache
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s2\obj\Debug\net6.0\home7s2.AssemblyInfo.cs
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s2\obj\Debug\net6.0\home7s2.csproj.CoreCompileInputs.cache
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s2\obj\Debug\net6.0\home7s2.dll
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s2\obj\Debug\net6.0\refint\home7s2.dll
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s2\obj\Debug\net6.0\home7s2.pdb
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s2\obj\Debug\net6.0\home7s2.genruntimeconfig.cache
+C:\Users\джайн\Desktop\HWO7\home7s\home7s.1\home7s2\obj\Debug\net6.0\ref\home7s2.dll
